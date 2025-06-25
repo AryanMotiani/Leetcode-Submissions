@@ -6,6 +6,7 @@ Leetcode Submissions
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@ Leetcode Submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
