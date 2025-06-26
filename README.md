@@ -42,6 +42,7 @@ Leetcode Submissions
 | ------- |
 | [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@ Leetcode Submissions
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
