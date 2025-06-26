@@ -14,6 +14,7 @@ Leetcode Submissions
 | [0119-pascals-triangle-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leetcode Submissions
 | ------- |
 | [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Leetcode Submissions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
