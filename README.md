@@ -6,6 +6,7 @@ Leetcode Submissions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -20,6 +21,7 @@ Leetcode Submissions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
