@@ -18,6 +18,7 @@ Leetcode Submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
@@ -30,6 +31,7 @@ Leetcode Submissions
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
@@ -49,6 +51,7 @@ Leetcode Submissions
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +70,7 @@ Leetcode Submissions
 | [0088-merge-sorted-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
@@ -91,6 +95,7 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
@@ -101,4 +106,16 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
