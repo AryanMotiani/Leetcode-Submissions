@@ -7,6 +7,7 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
@@ -51,6 +52,7 @@ Leetcode Submissions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -107,6 +109,7 @@ Leetcode Submissions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sliding Window
 |  |
