@@ -87,6 +87,7 @@ Leetcode Submissions
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -140,4 +141,5 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
