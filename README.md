@@ -85,6 +85,7 @@ Leetcode Submissions
 | ------- |
 | [0012-integer-to-roman](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
@@ -98,6 +99,7 @@ Leetcode Submissions
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [3617-find-the-original-typed-string-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
