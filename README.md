@@ -23,6 +23,7 @@ Leetcode Submissions
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
@@ -37,6 +38,7 @@ Leetcode Submissions
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
@@ -154,4 +156,8 @@ Leetcode Submissions
 | [0050-powx-n](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
