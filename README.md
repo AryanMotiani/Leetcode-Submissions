@@ -22,6 +22,7 @@ Leetcode Submissions
 | [0134-gas-station](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ Leetcode Submissions
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +85,7 @@ Leetcode Submissions
 | [0088-merge-sorted-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -96,6 +99,7 @@ Leetcode Submissions
 | [0171-excel-sheet-column-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -124,6 +128,7 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sliding Window
 |  |
@@ -151,6 +156,7 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
