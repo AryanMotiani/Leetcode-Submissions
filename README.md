@@ -19,6 +19,7 @@ Leetcode Submissions
 | [0119-pascals-triangle-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ Leetcode Submissions
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -169,4 +171,8 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
