@@ -113,6 +113,7 @@ Leetcode Submissions
 | [0005-longest-palindromic-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
@@ -177,4 +178,8 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
