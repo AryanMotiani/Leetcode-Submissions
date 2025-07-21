@@ -21,6 +21,7 @@ Leetcode Submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ Leetcode Submissions
 | [0119-pascals-triangle-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
