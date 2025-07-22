@@ -123,6 +123,7 @@ Leetcode Submissions
 | [0171-excel-sheet-column-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -184,4 +185,5 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
