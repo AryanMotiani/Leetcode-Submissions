@@ -11,6 +11,7 @@ Leetcode Submissions
 | [0015-3sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -41,6 +42,7 @@ Leetcode Submissions
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -57,6 +59,7 @@ Leetcode Submissions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
