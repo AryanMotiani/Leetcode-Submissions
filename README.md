@@ -123,6 +123,7 @@ Leetcode Submissions
 | [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
