@@ -34,6 +34,7 @@ Leetcode Submissions
 | [0485-max-consecutive-ones](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
@@ -158,6 +159,7 @@ Leetcode Submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sliding Window
 |  |
