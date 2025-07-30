@@ -27,6 +27,7 @@ Leetcode Submissions
 | [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@ Leetcode Submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -167,6 +169,7 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
@@ -204,6 +207,7 @@ Leetcode Submissions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
