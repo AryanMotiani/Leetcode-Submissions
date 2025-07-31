@@ -9,7 +9,7 @@ public:
             while(tmp>0){
                 b+=pow(tmp%10,2);
                 tmp/=10;
-                if(b>LLONG_MAX/10) return false;
+                if(b>LLONG_MAX/10) return false; // no need can remove this line
             }
             if(st.find(b)!=st.end()) return false;
             st.insert(b);
