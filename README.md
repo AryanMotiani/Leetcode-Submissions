@@ -77,6 +77,7 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
@@ -149,6 +150,7 @@ Leetcode Submissions
 | [0012-integer-to-roman](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
@@ -259,4 +261,8 @@ Leetcode Submissions
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
