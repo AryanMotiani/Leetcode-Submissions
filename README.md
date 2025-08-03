@@ -41,6 +41,7 @@ Leetcode Submissions
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
@@ -66,6 +67,7 @@ Leetcode Submissions
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Matrix
@@ -140,6 +142,7 @@ Leetcode Submissions
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -194,6 +197,7 @@ Leetcode Submissions
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +239,7 @@ Leetcode Submissions
 | [0238-product-of-array-except-self](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Union Find
 |  |
 | ------- |
