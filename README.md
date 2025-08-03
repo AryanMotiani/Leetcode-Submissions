@@ -146,6 +146,7 @@ Leetcode Submissions
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -169,6 +170,7 @@ Leetcode Submissions
 | [0171-excel-sheet-column-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
@@ -270,6 +272,7 @@ Leetcode Submissions
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
