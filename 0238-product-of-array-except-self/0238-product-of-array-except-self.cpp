@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        // THIS CODE USES DIVISION SO NOT THE CORRECT SOLUTION
         int n=nums.size(),zerocnt=0,prod=1;
         vector <int> a;
         for(int i=0;i<n;i++){
