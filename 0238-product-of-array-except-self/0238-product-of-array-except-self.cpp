@@ -1,24 +1,19 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        // THIS CODE USES DIVISION SO NOT THE CORRECT SOLUTION
-        int n=nums.size(),zerocnt=0,prod=1;
-        vector <int> a;
-        for(int i=0;i<n;i++){
-            if(nums[i]==0) {
-                zerocnt++;
-            }
-            else prod*=nums[i];
+        int n=nums.size();
+        vector <int> ans(n),prf(n+1),suf(n+1);
+        prf[0]=1;
+        for(int i=1;i<n+1;i++){
+            prf[i]=prf[i-1]*nums[i-1];
         }
-        int num=0;
-        if(zerocnt==0) num=prod;
-        for(int i=0;i<n;i++){
-            if(nums[i]==0){
-                if(zerocnt==1) a.push_back(prod);
-                else a.push_back(0);
-            }
-            else a.push_back(num/nums[i]);
+        suf[n]=1;
+        for(int i=n-1;i>=0;i--){
+            suf[i]=nums[i]*suf[i+1];
         }
-        return a;
+        for(int i=0;i<n;i++){
+            ans[i]=prf[i]*suf[i+1];
+        }
+        return ans;
     }
 };
