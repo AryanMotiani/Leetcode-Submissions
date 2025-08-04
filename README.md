@@ -38,6 +38,7 @@ Leetcode Submissions
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
@@ -256,6 +257,7 @@ Leetcode Submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
@@ -286,4 +288,8 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
