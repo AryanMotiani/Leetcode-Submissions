@@ -161,6 +161,7 @@ Leetcode Submissions
 | [0415-add-strings](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -188,6 +189,7 @@ Leetcode Submissions
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -248,6 +250,7 @@ Leetcode Submissions
 | [0455-assign-cookies](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
