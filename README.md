@@ -24,6 +24,7 @@ Leetcode Submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -257,6 +258,7 @@ Leetcode Submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
