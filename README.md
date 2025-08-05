@@ -39,6 +39,7 @@ Leetcode Submissions
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
@@ -212,6 +213,7 @@ Leetcode Submissions
 | [0219-contains-duplicate-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
