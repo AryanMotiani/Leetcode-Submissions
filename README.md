@@ -40,6 +40,7 @@ Leetcode Submissions
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
@@ -75,6 +76,7 @@ Leetcode Submissions
 | [0451-sort-characters-by-frequency](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -138,6 +140,7 @@ Leetcode Submissions
 | [0455-assign-cookies](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -250,6 +253,7 @@ Leetcode Submissions
 | ------- |
 | [0231-power-of-two](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
