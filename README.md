@@ -84,6 +84,7 @@ Leetcode Submissions
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Matrix
@@ -111,6 +112,7 @@ Leetcode Submissions
 | [0053-maximum-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Leetcode Submissions
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -232,6 +235,7 @@ Leetcode Submissions
 | [1046-max-consecutive-ones-iii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
@@ -266,6 +270,7 @@ Leetcode Submissions
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
