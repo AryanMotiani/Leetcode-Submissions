@@ -39,6 +39,7 @@ Leetcode Submissions
 | [0455-assign-cookies](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -298,6 +299,7 @@ Leetcode Submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -334,5 +336,6 @@ Leetcode Submissions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
