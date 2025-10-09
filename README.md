@@ -58,6 +58,7 @@ Leetcode Submissions
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
@@ -293,6 +294,7 @@ Leetcode Submissions
 | [1046-max-consecutive-ones-iii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
@@ -323,6 +325,7 @@ Leetcode Submissions
 | ------- |
 | [0415-add-strings](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Ordered Set
 |  |
 | ------- |
