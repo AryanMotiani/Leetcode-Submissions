@@ -60,6 +60,7 @@ Leetcode Submissions
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
+| [4041-climbing-stairs-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/4041-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Leetcode Submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [4041-climbing-stairs-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/4041-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
