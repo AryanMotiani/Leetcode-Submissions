@@ -47,6 +47,7 @@ Leetcode Submissions
 | [0643-maximum-average-subarray-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
@@ -110,6 +111,7 @@ Leetcode Submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [4041-climbing-stairs-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/4041-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
