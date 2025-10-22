@@ -52,6 +52,7 @@ Leetcode Submissions
 | [0890-lemonade-change](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -89,6 +90,7 @@ Leetcode Submissions
 | [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -217,6 +219,7 @@ Leetcode Submissions
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
@@ -242,6 +245,7 @@ Leetcode Submissions
 | [0643-maximum-average-subarray-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
