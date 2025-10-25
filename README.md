@@ -116,6 +116,7 @@ Leetcode Submissions
 | [0300-longest-increasing-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [4041-climbing-stairs-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/4041-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
@@ -209,6 +210,7 @@ Leetcode Submissions
 | [0451-sort-characters-by-frequency](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [1250-longest-common-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
