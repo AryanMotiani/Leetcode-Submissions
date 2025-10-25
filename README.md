@@ -36,6 +36,7 @@ Leetcode Submissions
 | [0238-product-of-array-except-self](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ Leetcode Submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [4041-climbing-stairs-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/4041-climbing-stairs-ii) |
@@ -230,6 +232,7 @@ Leetcode Submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
