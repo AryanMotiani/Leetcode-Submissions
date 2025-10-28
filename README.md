@@ -92,6 +92,7 @@ Leetcode Submissions
 | [0560-subarray-sum-equals-k](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -216,6 +217,7 @@ Leetcode Submissions
 | [0451-sort-characters-by-frequency](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0782-jewels-and-stones](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
