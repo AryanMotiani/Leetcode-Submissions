@@ -61,6 +61,7 @@ Leetcode Submissions
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2350-find-closest-number-to-zero](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2350-find-closest-number-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3886-count-number-of-trapezoids-i) |
