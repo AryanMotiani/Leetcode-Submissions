@@ -147,6 +147,7 @@ Leetcode Submissions
 | [0283-move-zeroes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1894-merge-strings-alternately](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Leetcode Submissions
 | [1250-longest-common-subsequence](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1873-longest-nice-substring) |
+| [1894-merge-strings-alternately](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AryanMotiani/Leetcode-Submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
